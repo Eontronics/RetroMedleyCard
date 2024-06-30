@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RMC_USBCT")(type "KiCad")(uri "${KIPRJMOD}/RMC_USBCT.pretty")(options "")(descr ""))
+)

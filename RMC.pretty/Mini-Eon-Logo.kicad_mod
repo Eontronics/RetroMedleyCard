@@ -1,0 +1,135 @@
+(footprint "Mini-Eon-Logo"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c1b0360f-32ca-4fbf-91ab-1acc75be84a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Mini-Eon-Logo"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aa25e8bd-21e7-4796-8bc1-8be273faab55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Mini-Eon-Logo"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57fd13ff-34b8-4a16-b4ba-ac91b2a327af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc71a41d-90b8-444e-a6c7-4e04ec895fc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77ca098c-75fb-4fea-851c-f13a1c6e7ac0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr board_only exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
+	(fp_poly
+		(pts
+			(xy 3.73176 0.02665) (xy -2.259495 0.612051) (xy -4.013343 -0.09354) (xy -2.228959 -0.697373)
+		)
+		(stroke
+			(width -0.000001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "406326a2-6dab-4648-9d06-7f23e7f0390d")
+	)
+	(fp_poly
+		(pts
+			(xy 4.547771 2.693593) (xy -2.695028 3.279083) (xy -5.314698 2.543466) (xy -2.649415 1.913939)
+		)
+		(stroke
+			(width -0.000001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "90bebc0f-0217-4b1b-aabe-9a06b091db05")
+	)
+	(fp_poly
+		(pts
+			(xy 5.310464 -3.226828) (xy 5.302916 -3.175879) (xy 5.292192 -3.126265) (xy 5.278429 -3.078013) (xy 5.261766 -3.031152)
+			(xy 5.242338 -2.985711) (xy 5.220284 -2.941719) (xy 5.195742 -2.899203) (xy 5.168847 -2.858193) (xy 5.139739 -2.818717)
+			(xy 5.108554 -2.780804) (xy 5.075431 -2.744483) (xy 5.040505 -2.709781) (xy 5.003915 -2.676728) (xy 4.965798 -2.645351)
+			(xy 4.926291 -2.615681) (xy 4.843659 -2.561571) (xy 4.757118 -2.514627) (xy 4.667768 -2.475077) (xy 4.576707 -2.44315)
+			(xy 4.485035 -2.419075) (xy 4.393852 -2.40308) (xy 4.304256 -2.395394) (xy 4.260398 -2.394738) (xy 4.217348 -2.396246)
+			(xy -0.593979 -2.2745) (xy -1.650319 3.098765) (xy -3.349784 2.404374) (xy -1.54266 -2.527502) (xy -1.515409 -2.595256)
+			(xy -1.479934 -2.66306) (xy -1.43668 -2.730246) (xy -1.386092 -2.796142) (xy -1.328614 -2.860081)
+			(xy -1.26469 -2.921394) (xy -1.194766 -2.979409) (xy -1.119285 -3.033459) (xy -1.038692 -3.082875)
+			(xy -0.953433 -3.126985) (xy -0.86395 -3.165123) (xy -0.770689 -3.196617) (xy -0.674095 -3.220799)
+			(xy -0.624687 -3.229939) (xy -0.574612 -3.237) (xy -0.523926 -3.241898) (xy -0.472684 -3.24455) (xy -0.420942 -3.244871)
+			(xy -0.368756 -3.242779) (xy 5.314699 -3.279082)
+		)
+		(stroke
+			(width -0.000001)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "06cd8f61-0db4-4aa0-ab72-9e82af86c75a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b4935847-d07a-4215-90b5-6d667fe90f1a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(group ""
+		(uuid "d31ca808-7f44-46c6-b1c2-94086434ddfb")
+		(members "06cd8f61-0db4-4aa0-ab72-9e82af86c75a" "406326a2-6dab-4648-9d06-7f23e7f0390d"
+			"90bebc0f-0217-4b1b-aabe-9a06b091db05"
+		)
+	)
+)
